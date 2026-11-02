@@ -69,10 +69,14 @@ To uninstall, open Windows **Settings › Apps › Installed apps**, find Focus 
 
 ## About this repository
 
-This repository holds the Windows installer and this page. The source code is not public. The app is free to download and use.
+This repository holds the Windows installer and this page. The source code is private and is not open source. The app is free to download and use under the terms in [LICENSE](LICENSE).
 
-Focus Yourself uses open-source components, including OpenCV, MediaPipe, YOLOX, SQLite and pywebview, each under its own licence. It is a personal productivity tool, not a medical device.
+Focus Yourself uses open-source components, including OpenCV, MediaPipe, YOLOX, SQLite and pywebview, each under its own licence. See [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt). It is a personal productivity tool, not a medical device.
 
 ## Developer
 
 Built by **Viswajith S**. Connect on [LinkedIn](https://www.linkedin.com/in/viswajjiith/).
+
+## Copyright
+
+© 2026 Viswajith S. All rights reserved. Focus Yourself, its name, logo, design, screenshots and documentation may not be copied or reused without permission.
